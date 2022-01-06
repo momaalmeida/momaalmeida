@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @momaalmeida
 - 👀 I’m interested in Web and Mobile Application Development
 - 🌱 I’m currently learning Programming logic with Javascript
-- 📫 How to reach me: paloma-almeidab@hotmail.com
+- 📫 How to reach me in https://www.linkedin.com/in/paloma-almeidab/
 
 <!---
 momaalmeida/momaalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
